@@ -1,1 +1,8 @@
-# nativescriptanalysis
+# VIEW NATIVESCRIPT ANALYSIS DOCUMENTS IN SPHINX MODE
+
+```
+$git clone repo
+
+
+```
+
