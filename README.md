@@ -1,8 +1,13 @@
-# VIEW NATIVESCRIPT ANALYSIS DOCUMENTS IN SPHINX MODE
+# NATIVESCRIPT ANALYSIS 
+
+View analysis in sphinx mode:
 
 ```
-$git clone repo
-
+$ pip install Sphinx
+$ git clone https://github.com/MeritxellMa/nativescriptanalysis.git analysis
+$ cd analysis 
+$ cd source
+$ sh update_changes.sh
 
 ```
 
